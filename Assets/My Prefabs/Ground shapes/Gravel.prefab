@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5264673883762272191}
   - component: {fileID: 3917939789586409914}
   m_Layer: 0
-  m_Name: PolyShape (3)
+  m_Name: Gravel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
