@@ -12,20 +12,13 @@ public class player : MonoBehaviour
 
 	void Update()
 	{
-		//Start Running Animation when W pressed
-		if (Input.GetKeyDown(KeyCode.W))
-		{
+		//Start Running Animation when W pressed - no needed currently maybe later
+		//if (Input.GetKeyDown(KeyCode.W))
+		//{
 			playerAnimation.SetTrigger("Run");
 			playerAnimation.ResetTrigger("Idle");
 			running = true;
-		}
-		//stop running when s is pressed
-		if (Input.GetKeyDown(KeyCode.S))
-		{
-			playerAnimation.SetTrigger("Run");
-			playerAnimation.ResetTrigger("Idle");
-			running = false;
-		}
+		//}
 
 		//To move character left and right
 		if (Input.GetKey(KeyCode.A))
