@@ -9,7 +9,7 @@ public class SectionTrigger : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Trigger"))
         {
-			Instantiate(NewTrailSection, new Vector3(0, 0, 150), Quaternion.identity);
+			Instantiate(NewTrailSection, new Vector3(0, 0, 152), Quaternion.identity);
 		}
     }
 }
