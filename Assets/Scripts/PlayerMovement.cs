@@ -13,17 +13,11 @@ public class player : MonoBehaviour
 
 	void Update()
 	{
-		//Start Running Animation when W pressed - no needed currently maybe later
-		//if (Input.GetKeyDown(KeyCode.W))
-		//{
-			playerAnimation.SetTrigger("Run");
-			//playerAnimation.ResetTrigger("Idle");
-			running = true;
-		//}
-
-
-		//float vertical = Input.GetAxis("Vertical") * Time.deltaTime * jump_speed
-		//transform.Translate(horizontal, 0, vertical);
+	
+		playerAnimation.SetTrigger("Run");
+			
+		running = true;
+		
 
 		//To move character left and right
 		if (Input.GetKey(KeyCode.A))
@@ -37,8 +31,6 @@ public class player : MonoBehaviour
 
 		//Jump
 		//playerRigid.AddForce(new Vector3(0, jumpForce, 0), ForceMode.Impulse);
-
-
 
 		//To move character forward - not needed
 		/*
