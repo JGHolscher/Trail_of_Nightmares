@@ -22,7 +22,7 @@ public class MovePlatform : MonoBehaviour
 		//Create new platform
 		if (transform.position.z <= -100 && !isNewPlatform)
 		{
-			Instantiate(NewTrailSection, new Vector3(0, 0, 99.5f), Quaternion.identity);
+			Instantiate(NewTrailSection, new Vector3(0, 0, 98f), Quaternion.identity);
 			isNewPlatform = true;
 		}
 
