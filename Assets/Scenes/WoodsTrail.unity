@@ -2196,7 +2196,7 @@ PrefabInstance:
       objectReference: {fileID: 411059946}
     - target: {fileID: 462715533300205310, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 11743
+      value: 12148
       objectReference: {fileID: 0}
     - target: {fileID: 941005125393159435, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2204,7 +2204,7 @@ PrefabInstance:
       objectReference: {fileID: 834348837}
     - target: {fileID: 941005125393159435, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 11743
+      value: 12148
       objectReference: {fileID: 0}
     - target: {fileID: 965979362744195105, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2244,7 +2244,7 @@ PrefabInstance:
       objectReference: {fileID: 708055373}
     - target: {fileID: 3211607729875772964, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 1713
+      value: 2118
       objectReference: {fileID: 0}
     - target: {fileID: 3372035325847236803, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_LODs.Array.data[0].renderers.Array.data[0].renderer
@@ -2272,7 +2272,7 @@ PrefabInstance:
       objectReference: {fileID: 1629660866}
     - target: {fileID: 3751234973979733484, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 11743
+      value: 12148
       objectReference: {fileID: 0}
     - target: {fileID: 3776222540566700230, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2284,7 +2284,11 @@ PrefabInstance:
       objectReference: {fileID: 779992247}
     - target: {fileID: 4069332728465084578, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 3377
+      value: 3782
+      objectReference: {fileID: 0}
+    - target: {fileID: 4091916676046131825, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_TagString
+      value: HealthDown
       objectReference: {fileID: 0}
     - target: {fileID: 4158101191687219267, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2312,7 +2316,7 @@ PrefabInstance:
       objectReference: {fileID: 990898032}
     - target: {fileID: 4953281556041560697, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 1719
+      value: 2124
       objectReference: {fileID: 0}
     - target: {fileID: 5047289731035373136, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2384,7 +2388,7 @@ PrefabInstance:
       objectReference: {fileID: 1559240291}
     - target: {fileID: 5753750028528279948, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 1719
+      value: 2124
       objectReference: {fileID: 0}
     - target: {fileID: 5788629568863945983, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2392,7 +2396,7 @@ PrefabInstance:
       objectReference: {fileID: 2018796745}
     - target: {fileID: 5788629568863945983, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 3383
+      value: 3788
       objectReference: {fileID: 0}
     - target: {fileID: 5879713620918025246, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2408,7 +2412,31 @@ PrefabInstance:
       objectReference: {fileID: 131678333}
     - target: {fileID: 6571224174172231434, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 3383
+      value: 3788
+      objectReference: {fileID: 0}
+    - target: {fileID: 6583784096891227873, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.38339093
+      objectReference: {fileID: 0}
+    - target: {fileID: 6583784096891227873, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.67313075
+      objectReference: {fileID: 0}
+    - target: {fileID: 6583784096891227873, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5941489
+      objectReference: {fileID: 0}
+    - target: {fileID: 6583784096891227873, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.21654946
+      objectReference: {fileID: 0}
+    - target: {fileID: 6583784096891227873, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 195
+      objectReference: {fileID: 0}
+    - target: {fileID: 6583784096891589313, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_TagString
+      value: HealthDown
       objectReference: {fileID: 0}
     - target: {fileID: 6737989511316124073, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: pHealth
@@ -2420,7 +2448,7 @@ PrefabInstance:
       objectReference: {fileID: 1098835290}
     - target: {fileID: 7287778912675594582, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 11737
+      value: 12142
       objectReference: {fileID: 0}
     - target: {fileID: 7299106286451608700, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2432,7 +2460,7 @@ PrefabInstance:
       objectReference: {fileID: 1894435024}
     - target: {fileID: 7590070140209839128, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 3383
+      value: 3788
       objectReference: {fileID: 0}
     - target: {fileID: 8129899166658737340, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -2450,6 +2478,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1058208455}
+    - target: {fileID: 8286696102167198716, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8496861465320406503, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -2472,7 +2504,7 @@ PrefabInstance:
       objectReference: {fileID: 1040032792}
     - target: {fileID: 9060565342764206750, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_VersionIndex
-      value: 1719
+      value: 2124
       objectReference: {fileID: 0}
     - target: {fileID: 9106762496112236036, guid: 3c2d0fe9f0e11df43abafffa6ff6bf1f, type: 3}
       propertyPath: m_Mesh
@@ -4901,6 +4933,7 @@ GameObject:
   - component: {fileID: 1584280295}
   - component: {fileID: 1584280297}
   - component: {fileID: 1584280298}
+  - component: {fileID: 1584280299}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -4993,7 +5026,7 @@ Transform:
   m_GameObject: {fileID: 1584280289}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 4.1, z: -167.92651}
+  m_LocalPosition: {x: 0, y: 4.1, z: -176}
   m_LocalScale: {x: 1.3, y: 3.0631187, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5008,9 +5041,9 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1584280289}
   serializedVersion: 4
-  m_Mass: 10
+  m_Mass: 20
   m_Drag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 20
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5076,6 +5109,21 @@ MonoBehaviour:
   pHealth: {fileID: 1584280297}
   damage: 20
   ouch: {fileID: 8300000, guid: 24852e1b979154910a0a491733763849, type: 3}
+--- !u!114 &1584280299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584280289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c59f0add6e2fb4dabc01e8fda45051, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pHealth: {fileID: 1584280297}
+  healthUp: 10
+  heal: {fileID: 8300000, guid: cfce0cea076109f478783201b2a9f57f, type: 3}
 --- !u!1 &1598064579
 GameObject:
   m_ObjectHideFlags: 0

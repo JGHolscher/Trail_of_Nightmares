@@ -13,7 +13,8 @@ public class player : MonoBehaviour
 
 	void Update()
 	{
-	
+		playerRigid.position = new Vector3(playerRigid.position.x, playerRigid.position.y, -176);
+
 		playerAnimation.SetTrigger("Run");
 			
 		running = true;
