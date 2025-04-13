@@ -16,6 +16,8 @@ public class HealthIncrease : MonoBehaviour
 			{
 				//Increase player health
 				pHealth.health += healthUp;
+				//Destroy
+				Destroy(other.gameObject);
 				//heal sound
 				AudioSource.PlayClipAtPoint(heal, transform.position);
 			}
